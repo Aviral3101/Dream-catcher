@@ -1,0 +1,107 @@
+nav{
+  height: 75px;
+  font-size: 1.5rem;
+}
+a{
+  font-family: 'Srisakdi', cursive;
+}
+#slide{
+  background-color:#e4f9ff ;
+  height: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#block img{
+  float: left;
+  width: 77%;
+  height: 600px;
+  padding-right:30px;
+  border-top-left-radius:8px;
+  border-bottom-left-radius: 8px;
+}
+#block{
+  background-color:white;
+  width: 1190px;
+  height: 600px;
+  border-radius: 8px;
+}
+h3{
+  padding-top: 200px;
+  padding-right: 25px;
+  text-align: center;
+  font-size: 3rem;
+  font-family: 'PT Serif', serif !important;
+}
+
+.ni img{
+  width:400px;
+  height: 400px;
+  margin-right: 75px;
+  border-radius: 10px;
+}
+.img1{
+  margin-left: 50px;
+}
+#nature{
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 35px;
+  margin-bottom: 60px;
+}
+h1{
+  padding-bottom: 50px;
+  font-family: 'Manrope', sans-serif !important;
+
+}
+#animal{
+  background-color:#e4f9ff ;
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 35px;
+  padding-bottom: 60px;
+}
+#bird{
+
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 35px;
+    padding-bottom: 60px;
+
+}
+#about{
+  background-color:#e4f9ff ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.about{
+    background-color:white ;
+  width:800px;
+  height: 400px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border-radius: 10px;
+
+}
+.about img{
+  float: left;
+  width: 250px;
+  height: 350px;
+  margin:25px;
+  padding-top: 50px;
+  padding-right: 50px;
+}
+.about p{
+  margin: 20px 25px 0 ;
+  font-size: 2rem;
+  font-family: 'Dancing Script', cursive;
+}
+#footer{
+  padding: 5% 15% 1%;
+  text-align: center;
+}
+.f1{
+  padding: 0 1% 3%;
+}
